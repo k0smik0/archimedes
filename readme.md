@@ -50,4 +50,4 @@ public class FestivalService {
 </code>
 </pre>
 
-A full example is available [here](https://github.com/k0smik0/kw_archimedes_kv_optimusprime__sample)
+A full example is available [here](../../kw_archimedes_kv_optimusprime__sample)
